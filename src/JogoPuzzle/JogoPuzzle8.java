@@ -19,7 +19,7 @@ public class JogoPuzzle8 {
     public static void main(String[] args) {
         
         //Matriz com os dados de origem do tabuleiro
-        int[][] aOrigem  = {{2,3,7},{5,4,8},{0,6,1}};
+        int[][] aOrigem  = {{7,1,3},{2,6,0},{5,4,8}};
         //Matriz com os dados com o destino esperado após a execução do jogo
         int[][] aDestino = {{1,2,3},{4,5,6},{7,8,0}};
         
